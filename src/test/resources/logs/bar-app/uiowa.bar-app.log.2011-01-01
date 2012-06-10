@@ -1,0 +1,4 @@
+2011-02-07 13:23:02,784 INFO  [edhill@128.255.76.77] uiowa.Foo updating record of: 888776666
+2011-02-07 16:54:30,475 INFO  [edhill@128.255.76.24] uiowa.Foo updating record of: 999443333
+2011-02-07 18:12:51,415 INFO  [edhill@128.255.76.62] uiowa.Baz deleted account 999-55-1111!
+2011-02-07 18:12:51,415 INFO  [edhill@128.255.76.62] uiowa.Blah someone did something to [mnoel@ic]
